@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\OOP\oop_game_harvest\oop_game_harvest\bin\Debug\oop_game_harvest.exe.config
+C:\Users\Admin\source\repos\OOP\oop_game_harvest\oop_game_harvest\bin\Debug\oop_game_harvest.exe
+C:\Users\Admin\source\repos\OOP\oop_game_harvest\oop_game_harvest\bin\Debug\oop_game_harvest.pdb
+C:\Users\Admin\source\repos\OOP\oop_game_harvest\oop_game_harvest\obj\Debug\oop_game_harvest.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\OOP\oop_game_harvest\oop_game_harvest\obj\Debug\oop_game_harvest.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\OOP\oop_game_harvest\oop_game_harvest\obj\Debug\oop_game_harvest.exe
+C:\Users\Admin\source\repos\OOP\oop_game_harvest\oop_game_harvest\obj\Debug\oop_game_harvest.pdb
